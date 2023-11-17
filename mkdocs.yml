@@ -1,4 +1,7 @@
 site_name: AT Simulation Subsystem 
+nav:
+  - Главная страница: index.md
+  - Legacy-версия: legacy.md
 theme:
   name: material
 
@@ -28,9 +31,6 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
-
-# plugins:
-#   - social
 
 extra:
   social:
