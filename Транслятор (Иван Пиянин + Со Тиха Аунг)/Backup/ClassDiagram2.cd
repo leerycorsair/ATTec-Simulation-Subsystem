@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ATTranslation.Function" Collapsed="true">
+    <Position X="16.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACABAAAAAAAAAAAAAFAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Function.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.FuncParam" Collapsed="true">
+    <Position X="16.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Function.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.Generation" Collapsed="true">
+    <Position X="12.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAABBAAAQAgAAiAAICIhJggCAAADAKAAgAIAECAAAA=</HashCode>
+      <FileName>Generation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.LexicAnalysis" Collapsed="true">
+    <Position X="14.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LexicAnalysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.MainWindow" Collapsed="true">
+    <Position X="13" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACgBEAAACQAQAgAAAAAEgAAAgAEAAQAAAAIAAQAAI=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.Operation" Collapsed="true">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Operation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.OperationTemplate" Collapsed="true">
+    <Position X="14.25" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABQAAAAAAAAAAAAAAAAAAAEAAFAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>OperationTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.RelevantResource" Collapsed="true">
+    <Position X="12.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAIAAAAAAAAAAEAAAAAAAAEAAAAAI=</HashCode>
+      <FileName>OperationTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.Time" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAACAAAAAAAgAAAAAAAAAAABACAAAAAAAAAAAAA=</HashCode>
+      <FileName>OperationTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.Rule" Collapsed="true">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAiQAAYAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OperationTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.Resource" Collapsed="true">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAEAAEAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Resource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.ResourceType" Collapsed="true">
+    <Position X="10.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.ResourceTypeParameter" Collapsed="true">
+    <Position X="10.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAACAAA=</HashCode>
+      <FileName>ResourceType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.SemanticAnalysis" Collapsed="true">
+    <Position X="16.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SemanticAnalysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATTranslation.SyntaxAnalysis" Collapsed="true">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SyntaxAnalysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

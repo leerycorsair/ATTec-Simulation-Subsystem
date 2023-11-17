@@ -1,0 +1,67 @@
+﻿<Window x:Class="Visualization.ResourceTypeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:col="clr-namespace:System.Collections;assembly=mscorlib"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+        Title="Тип ресурса" Height="400" Width="350">
+    
+    
+    <Grid Name="grid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="30*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="115*" />
+            <ColumnDefinition Width="115*" />
+        </Grid.ColumnDefinitions>
+        <Label Content="Имя типа" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="0" Grid.Row="1" />
+        <Label Content="Вид ресурсов" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="0" Grid.Row="2" />
+        <Label Content="Описание параметра" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="2" Grid.Row="3" />
+        <TextBox HorizontalAlignment="Stretch" Name="nameTextBox" VerticalAlignment="Center" Grid.Column="1" Grid.Row="1"/>
+        <ComboBox Grid.Column="1" Grid.Row="2" HorizontalAlignment="Stretch" Name="typeComboBox" VerticalAlignment="Center" >
+            <ComboBoxItem Content="Постоянные" />
+            <ComboBoxItem Content="Временные"/>
+        </ComboBox>
+        <!--<Label Content="Имя параметра" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="0" Grid.Row="4" />
+        <Label Content="Тип параметра" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="0" Grid.Row="5" />
+        <Label Content="Начальное значение" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="0" Grid.Row="6" />
+        <TextBox HorizontalAlignment="Stretch" Name="nameParamTextBox" VerticalAlignment="Center" Grid.Column="1" Grid.Row="4"/>
+        <ComboBox Grid.Column="1" Grid.Row="5" HorizontalAlignment="Stretch" Name="typeParamComboBox" VerticalAlignment="Center" >
+            <ComboBoxItem Content="integer" />
+            <ComboBoxItem Content="real"/>
+            <ComboBoxItem Content="boolean"/>
+        </ComboBox>
+        <TextBox HorizontalAlignment="Stretch" Name="defaultParamTextBox" VerticalAlignment="Center" Grid.Column="1" Grid.Row="6"/>-->
+        <Button Content="Отмена" Grid.Row="7" Grid.Column="0" HorizontalAlignment="Center" Name="closeButton" Style="{DynamicResource metroButton2Style}" VerticalAlignment="Center" Width="75" Click="closeButton_Click" Margin="10,2,86,2"/>
+        <Button Content="Сохранить" Grid.Row="7" Grid.Column="1" HorizontalAlignment="Center"  Name="saveButton" Style="{DynamicResource metroButtonStyle}" VerticalAlignment="Center" Width="Auto" Click="saveButton_Click"/>
+        <Label Content="Параметры типа ресурсов" Grid.Row="0" Grid.ColumnSpan="2"  HorizontalAlignment="Center" Name="label1" VerticalAlignment="Center" />
+        <!--<Button Content="+" Grid.Row="3" HorizontalAlignment="Right" Name="addButton" VerticalAlignment="Center" Width="35" Click="button1_Click" Grid.Column="1" />-->
+        <DataGrid ItemsSource="{Binding}" RowDetailsVisibilityMode="VisibleWhenSelected" SelectionMode="Extended" IsReadOnly="False" CanUserAddRows="True" CanUserDeleteRows="True" AutoGenerateColumns="False" Grid.ColumnSpan="2" Grid.Row="4" Grid.RowSpan="3" Name="dataGrid1" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Имя параметра" Binding="{Binding Path= Name}"/>
+                <DataGridComboBoxColumn  Header="Тип параметра" SelectedItemBinding="{Binding Path=Type}">
+                    <DataGridComboBoxColumn.ItemsSource>
+                        <col:ArrayList>
+                            <sys:String>int</sys:String>
+                            <sys:String>double</sys:String>
+                            <sys:String>bool</sys:String>
+                            <sys:String>Enum</sys:String>
+
+
+                        </col:ArrayList>
+                    </DataGridComboBoxColumn.ItemsSource>
+                </DataGridComboBoxColumn>
+                <DataGridTextColumn Header="Умолчание" Binding="{Binding Path= Default}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="EditButton" Visibility="Hidden" Grid.ColumnSpan="2" Content="Button" HorizontalAlignment="Left" Style="{DynamicResource metroButton6Style}"  Margin="108,10,0,0" Grid.Row="7" VerticalAlignment="Top" Width="74" Click="EditButton_Click"/>
+    </Grid>
+</Window>

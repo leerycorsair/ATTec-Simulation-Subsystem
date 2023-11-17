@@ -1,0 +1,117 @@
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\Visualizer\bin\Debug\Visualizer.exe
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\Visualizer\bin\Debug\Visualizer.pdb
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\Visualizer\obj\Debug\Visualizer.Form1.resources
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\Visualizer\obj\Debug\Visualizer.exe
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\Visualizer\obj\Debug\Visualizer.pdb
+I:\C#\Visualizer\Visualizer\obj\Debug\Visualizer.exe
+I:\C#\Visualizer\Visualizer\obj\Debug\Visualizer.pdb
+I:\C#\Visualizer\Visualizer\bin\Debug\Visualizer.exe
+I:\C#\Visualizer\Visualizer\bin\Debug\Visualizer.pdb
+I:\C#\Visualizer\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+I:\C#\Visualizer\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+I:\C#\Visualizer\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+I:\C#\Visualizer\Visualizer\obj\Debug\Visualizer.Charts.resources
+I:\C#\Visualizer\Visualizer\obj\Debug\Visualizer.Main_Form.resources
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Debug\Visualizer.pdb
+I:\COM-Object\Original Files\Visualizer\Visualizer\bin\Debug\Visualizer.pdb
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Debug\Visualizer.Charts.resources
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Debug\Visualizer.Main_Form.resources
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Debug\Visualizer.Create_Kadre.resources
+I:\COM-Object\Original Files\Visualizer\Visualizer\bin\Debug\Visualizer.exe
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Debug\Visualizer.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\bin\Debug\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.Charts.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\bin\Debug\VisualEditor.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\bin\Debug\VisualEditor.pdb
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.Charts.resources
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.Main_Form.resources
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.exe
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\bin\Debug\Visualizer.exe
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\bin\Debug\Visualizer.pdb
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\bin\Debug\VisualEditor.pdb
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\bin\Debug\Visualizer.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\bin\Debug\Visualizer.tlb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Debug\Visualizer.VMain.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\bin\Debug\Visualizer.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\bin\Debug\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\bin\Debug\Visualizer.tlb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\bin\Debug\VisualEditor.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\bin\Debug\VisualEditor.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Debug\Visualizer.Charts.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Debug\Visualizer.VMain.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Debug\Visualizer.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Debug\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.Charts.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.VMain.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\bin\Debug\Visualizer.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\bin\Debug\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.exe
+J:\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.exe
+J:\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.pdb
+J:\C#\Original Files\Visualizer(6_version)\Visualizer\bin\Debug\Visualizer.exe
+J:\C#\Original Files\Visualizer(6_version)\Visualizer\bin\Debug\Visualizer.pdb
+J:\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+J:\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.Charts.resources
+J:\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.VMain.resources
+J:\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+J:\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.exe
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.pdb
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(6_version)\Visualizer\bin\Debug\Visualizer.exe
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(6_version)\Visualizer\bin\Debug\Visualizer.pdb
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.Charts.resources
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.VMain.resources
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(6_version)\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.exe
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.pdb
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(7_version)\Visualizer\bin\Debug\Visualizer.exe
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(7_version)\Visualizer\bin\Debug\Visualizer.pdb
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.Charts.resources
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.VMain.resources
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+G:\Flash Drive\6.6.2014\C#\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+E:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.exe
+E:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.pdb
+E:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+E:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.Charts.resources
+E:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.VMain.resources
+E:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+E:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+E:\Original Files\Visualizer(7_version)\Visualizer\bin\Debug\Visualizer.exe
+E:\Original Files\Visualizer(7_version)\Visualizer\bin\Debug\Visualizer.pdb
+I:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.exe
+I:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.pdb
+I:\Original Files\Visualizer(7_version)\Visualizer\bin\Debug\Visualizer.exe
+I:\Original Files\Visualizer(7_version)\Visualizer\bin\Debug\Visualizer.pdb
+I:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.Charts.resources
+I:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.VMain.resources
+I:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+I:\Original Files\Visualizer(7_version)\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.Cache
+J:\Подсистема имитационного моделирования\Визуализатор (Со Тиха Аунг)\Visualizer\obj\Debug\Visualizer.exe
+J:\Подсистема имитационного моделирования\Визуализатор (Со Тиха Аунг)\Visualizer\obj\Debug\Visualizer.pdb

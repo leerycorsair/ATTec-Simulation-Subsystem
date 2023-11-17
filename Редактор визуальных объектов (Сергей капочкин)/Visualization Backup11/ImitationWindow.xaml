@@ -1,0 +1,22 @@
+﻿<Window x:Class="Visualization.ImitationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Режим имитации" Height="500" Width="1000">
+    <Grid>
+        <Canvas Height="425" HorizontalAlignment="Left" Margin="0,36,0,0" Name="canvas1" VerticalAlignment="Top" Width="739">
+            <GroupBox Header="Просмотр изображения" Height="151" Name="groupBox1" Width="238" Canvas.Left="740" Canvas.Top="274">
+                <Grid />
+            </GroupBox>
+        </Canvas>
+        <Menu Height="30" Name="menu1" VerticalAlignment="Top" Width="978" >
+            <MenuItem Name="effect" Header="Анимация"/>
+            <MenuItem Name="model" Header="Модель" >
+                <MenuItem Name="simulate" Header="Запуск" />
+            </MenuItem>
+            
+            
+        </Menu>
+        <ListBox Height="229" HorizontalAlignment="Left" Margin="740,36,0,0" Name="objectListBox" VerticalAlignment="Top" Width="238" />
+        <Button Content="Добавить" Height="23" HorizontalAlignment="Left" Margin="824,271,0,0" Name="button1" VerticalAlignment="Top" Width="74" />
+    </Grid>
+</Window>

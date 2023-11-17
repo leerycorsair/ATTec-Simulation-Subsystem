@@ -1,0 +1,125 @@
+I:\COM-Object\Original Files\Visualizer\Visualizer\bin\Release\Visualizer.dll
+I:\COM-Object\Original Files\Visualizer\Visualizer\bin\Release\Visualizer.pdb
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Release\ResolveAssemblyReference.cache
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Release\Visualizer.Charts.resources
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Release\Visualizer.Main_Form.resources
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Release\Visualizer.dll
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Release\Visualizer.pdb
+I:\COM-Object\Original Files\Visualizer\Visualizer\bin\Release\Visualizer.tlb
+I:\COM-Object\Original Files\Visualizer\Visualizer\obj\Release\Visualizer.Create_Kadre.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\bin\Release\Visualizer.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\bin\Release\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\bin\Release\Visualizer.tlb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\bin\Release\VisualEditor.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\bin\Release\VisualEditor.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Release\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.Charts.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.dll
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\bin\Release\Visualizer.dll
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\bin\Release\Visualizer.pdb
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\bin\Release\Visualizer.tlb
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.Charts.resources
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.Main_Form.resources
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.dll
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.pdb
+C:\Documents and Settings\Lungelay\Рабочий стол\C#\Original Files\Visualizer(2_version)\Visualizer\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(2_version)\Visualizer\obj\Release\Visualizer.VMain.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\bin\Release\Visualizer.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\bin\Release\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\bin\Release\Visualizer.tlb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\bin\Release\VisualEditor.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\bin\Release\VisualEditor.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Release\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.Charts.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.VMain.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.pdb
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\bin\Release\Visualizer.dll
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\bin\Release\Visualizer.pdb
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\bin\Release\Visualizer.tlb
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\bin\Release\VisualEditor.dll
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\bin\Release\VisualEditor.pdb
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\ResolveAssemblyReference.cache
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.Charts.resources
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.VMain.resources
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.dll
+G:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.pdb
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\bin\Release\Visualizer.dll
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\bin\Release\Visualizer.pdb
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\bin\Release\Visualizer.tlb
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\bin\Release\VisualEditor.dll
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\bin\Release\VisualEditor.pdb
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\ResolveAssemblyReference.cache
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.Charts.resources
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.VMain.resources
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.dll
+F:\C#\Original Files\Visualizer(3_version)\Visualizer\obj\Release\Visualizer.pdb
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\Visualizer.dll
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\Visualizer.pdb
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\Visualizer.tlb
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\VisualEditor.dll
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\VisualEditor.pdb
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\ResolveAssemblyReference.cache
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.Charts.resources
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.VMain.resources
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.dll
+E:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.pdb
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\Visualizer.dll
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\Visualizer.pdb
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\Visualizer.tlb
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\VisualEditor.dll
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\VisualEditor.pdb
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\ResolveAssemblyReference.cache
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.Charts.resources
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.VMain.resources
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.dll
+G:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.pdb
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\Visualizer.dll
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\Visualizer.pdb
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\Visualizer.tlb
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\VisualEditor.dll
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\bin\Release\VisualEditor.pdb
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\ResolveAssemblyReference.cache
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.Charts.resources
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.VMain.resources
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.dll
+I:\C#\Original Files\Visualizer(4_version)\Visualizer\obj\Release\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(5_version)\Visualizer\bin\Release\Visualizer.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(5_version)\Visualizer\bin\Release\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(5_version)\Visualizer\bin\Release\Visualizer.tlb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(5_version)\Visualizer\obj\Release\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(5_version)\Visualizer\obj\Release\Visualizer.Charts.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(5_version)\Visualizer\obj\Release\Visualizer.VMain.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(5_version)\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(5_version)\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(5_version)\Visualizer\obj\Release\Visualizer.dll
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(5_version)\Visualizer\obj\Release\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Release\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\bin\Debug\Visualizer.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\bin\Debug\Visualizer.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Release\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Release\Visualizer.Charts.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Release\Visualizer.VMain.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Release\Visualizer.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Release\Visualizer.csproj.GenerateResource.Cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\Visualizer(6_version)\Visualizer\obj\Release\Visualizer.exe

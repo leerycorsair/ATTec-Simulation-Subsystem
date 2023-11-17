@@ -1,0 +1,58 @@
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\ComputationModel\bin\Debug\ComputationModel.exe
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\ComputationModel\bin\Debug\ComputationModel.pdb
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\ComputationModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\ComputationModel\obj\x86\Debug\ComputationModel.Form1.resources
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\ComputationModel\obj\x86\Debug\ComputationModel.Properties.Resources.resources
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\ComputationModel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\ComputationModel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\ComputationModel\obj\x86\Debug\ComputationModel.exe
+C:\Documents and Settings\POOLEN\Local Settings\Application Data\Temporary Projects\ComputationModel\obj\x86\Debug\ComputationModel.pdb
+C:\Documents and Settings\POOLEN\мои документы\visual studio 2010\Projects\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.exe
+C:\Documents and Settings\POOLEN\мои документы\visual studio 2010\Projects\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.pdb
+C:\Documents and Settings\POOLEN\мои документы\visual studio 2010\Projects\ComputationModel\ComputationModel\bin\Debug\ComputationModel.exe
+C:\Documents and Settings\POOLEN\мои документы\visual studio 2010\Projects\ComputationModel\ComputationModel\bin\Debug\ComputationModel.pdb
+C:\Documents and Settings\POOLEN\мои документы\visual studio 2010\Projects\ComputationModel\ComputationModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\POOLEN\мои документы\visual studio 2010\Projects\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.Form1.resources
+C:\Documents and Settings\POOLEN\мои документы\visual studio 2010\Projects\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.Properties.Resources.resources
+C:\Documents and Settings\POOLEN\мои документы\visual studio 2010\Projects\ComputationModel\ComputationModel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\POOLEN\мои документы\visual studio 2010\Projects\ComputationModel\ComputationModel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ComputationModel\ComputationModel\bin\Debug\ComputationModel.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ComputationModel\ComputationModel\bin\Debug\ComputationModel.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.Form1.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\C#\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.exe
+J:\C#\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.pdb
+J:\C#\Original Files\ComputationModel\ComputationModel\bin\Debug\ComputationModel.exe
+J:\C#\Original Files\ComputationModel\ComputationModel\bin\Debug\ComputationModel.pdb
+J:\C#\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\C#\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.Form1.resources
+J:\C#\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\ComputationModel.Properties.Resources.resources
+J:\C#\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\C#\Original Files\ComputationModel\ComputationModel\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\C#\Original Files\ComputationModel_2\ComputationModel\obj\x86\Debug\ComputationModel.exe
+J:\C#\Original Files\ComputationModel_2\ComputationModel\obj\x86\Debug\ComputationModel.pdb
+J:\C#\Original Files\ComputationModel_2\ComputationModel\bin\Debug\ComputationModel.exe
+J:\C#\Original Files\ComputationModel_2\ComputationModel\bin\Debug\ComputationModel.pdb
+J:\C#\Original Files\ComputationModel_2\ComputationModel\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\C#\Original Files\ComputationModel_2\ComputationModel\obj\x86\Debug\ComputationModel.Form1.resources
+J:\C#\Original Files\ComputationModel_2\ComputationModel\obj\x86\Debug\ComputationModel.Properties.Resources.resources
+J:\C#\Original Files\ComputationModel_2\ComputationModel\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\C#\Original Files\ComputationModel_2\ComputationModel\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\C#\Original Files\ComputationModel_3\ComputationModel\obj\x86\Debug\ComputationModel.exe
+J:\C#\Original Files\ComputationModel_3\ComputationModel\obj\x86\Debug\ComputationModel.pdb
+J:\C#\Original Files\ComputationModel_3\ComputationModel\bin\Debug\ComputationModel.exe
+J:\C#\Original Files\ComputationModel_3\ComputationModel\bin\Debug\ComputationModel.pdb
+J:\C#\Original Files\ComputationModel_3\ComputationModel\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\C#\Original Files\ComputationModel_3\ComputationModel\obj\x86\Debug\ComputationModel.Form1.resources
+J:\C#\Original Files\ComputationModel_3\ComputationModel\obj\x86\Debug\ComputationModel.Properties.Resources.resources
+J:\C#\Original Files\ComputationModel_3\ComputationModel\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\C#\Original Files\ComputationModel_3\ComputationModel\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Flash Drive\6.6.2014\C#\Original Files\ComputationModel_3\ComputationModel\obj\x86\Debug\ComputationModel.exe
+G:\Flash Drive\6.6.2014\C#\Original Files\ComputationModel_3\ComputationModel\obj\x86\Debug\ComputationModel.pdb
+J:\Подсистема имитационного моделирования\Компонент поддержки расчета состояний ИМ (Со Тиха Аунг)\ComputationModel\obj\x86\Debug\ComputationModel.exe
+J:\Подсистема имитационного моделирования\Компонент поддержки расчета состояний ИМ (Со Тиха Аунг)\ComputationModel\obj\x86\Debug\ComputationModel.pdb

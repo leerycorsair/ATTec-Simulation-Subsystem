@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Visualizer.ATVisualizer" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACAAAAAAAAAIgAAABAQACAAEAAAAIAAAAAQAAIA=</HashCode>
+      <FileName>ATVisualizer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Visualizer.Charts">
+    <Position X="6" Y="2" Width="1.5" />
+    <Members>
+      <Field Name="chart1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="endChart" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="nameResource" Hidden="true" />
+      <Field Name="parameterResource" Hidden="true" />
+      <Field Name="startChart" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+      <Field Name="typeChart" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AARAggCAACAAABQEEgCAAAACAAAAIAAAABACACAACAA=</HashCode>
+      <FileName>Charts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualizer.RuleProcessing">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>RuleProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualizer.VMain">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Field Name="EditKadre" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="nameKadre" Hidden="true" />
+      <Field Name="pauseAnnimation" Hidden="true" />
+      <Field Name="scanInterval" Hidden="true" />
+      <Field Name="showChart" Hidden="true" />
+      <Field Name="showKadre" Hidden="true" />
+      <Field Name="stopAnnimation" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+      <Field Name="timer2" Hidden="true" />
+      <Field Name="WorkSpace" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>UASQQAAAgGADABCMAgGAAAACAABAoAIAIAAAAAAIAIA=</HashCode>
+      <FileName>VMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualizer.Properties.Resources" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualizer.Properties.Settings" Collapsed="true">
+    <Position X="12.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Visualizer.IATVisualizer">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAIgAAABAQACAAEAAAAIAAAAAAAAIA=</HashCode>
+      <FileName>ATVisualizer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Zawgyi-One" Size="8.25" />
+</ClassDiagram>

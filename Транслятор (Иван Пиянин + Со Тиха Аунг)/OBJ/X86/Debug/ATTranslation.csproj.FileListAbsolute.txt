@@ -1,0 +1,180 @@
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\bin\Debug\ATTranslation.exe
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\bin\Debug\ATTranslation.pdb
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\MainWindow.baml
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\App.g.cs
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.g.resources
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.exe
+C:\Users\user\documents\visual studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+I:\Диплом_Пиянин\Программа\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.exe
+I:\Диплом_Пиянин\Программа\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+G:\Flash Drive\FAT32 1\Диплом_Пиянин\Программа\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.exe
+G:\Flash Drive\FAT32 1\Диплом_Пиянин\Программа\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+G:\Диплом_Пиянин\Программа\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.exe
+G:\Диплом_Пиянин\Программа\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+G:\Диплом_Пиянин\Программа\ATTranslation (v_2)\ATTranslation\obj\x86\Debug\ATTranslation.exe
+G:\Диплом_Пиянин\Программа\ATTranslation (v_2)\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\bin\Debug\ATTranslation.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\bin\Debug\ATTranslation.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\MainWindow.baml
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\MainWindow.g.cs
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\App.g.cs
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.g.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\ATTranslation\ATTranslation\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.exe
+E:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+E:\C#\ATTranslation\ATTranslation\bin\Debug\ATTranslation.exe
+E:\C#\ATTranslation\ATTranslation\bin\Debug\ATTranslation.pdb
+E:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.csprojResolveAssemblyReference.cache
+E:\C#\ATTranslation\ATTranslation\obj\x86\Debug\MainWindow.baml
+E:\C#\ATTranslation\ATTranslation\obj\x86\Debug\MainWindow.g.cs
+E:\C#\ATTranslation\ATTranslation\obj\x86\Debug\App.g.cs
+E:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+E:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.g.resources
+E:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+E:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.csproj.GenerateResource.Cache
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.exe
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+I:\C#\ATTranslation\ATTranslation\bin\Debug\ATTranslation.exe
+I:\C#\ATTranslation\ATTranslation\bin\Debug\ATTranslation.pdb
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\MainWindow.baml
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\MainWindow.g.cs
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\App.g.cs
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.g.resources
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\C#\ATTranslation\ATTranslation\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.exe
+G:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+F:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.exe
+F:\C#\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+I:\C#\ATTranslation\ATTranslation\bin\Debug\ATTranslation.exe.config
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\bin\Debug\ATTranslation.exe.config
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.exe
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\bin\Debug\ATTranslation.exe
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\bin\Debug\ATTranslation.pdb
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.g.resources
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\POOLEN\Мои документы\Visual Studio 2010\Projects\ATTranslation\ATTranslation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\POOLEN\Рабочий стол\ATTranslation\bin\Debug\ATTranslation.exe.config
+C:\Documents and Settings\POOLEN\Рабочий стол\ATTranslation\obj\x86\Debug\ATTranslation.exe
+C:\Documents and Settings\POOLEN\Рабочий стол\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+C:\Documents and Settings\POOLEN\Рабочий стол\Транслятор + компонент поддержки расчета состояний ИМ\Транслятор + компонент поддержки расчета состояний ИМ\ATTranslation\bin\Debug\ATTranslation.exe.config
+C:\Documents and Settings\POOLEN\Рабочий стол\Транслятор + компонент поддержки расчета состояний ИМ\Транслятор + компонент поддержки расчета состояний ИМ\ATTranslation\obj\x86\Debug\ATTranslation.exe
+C:\Documents and Settings\POOLEN\Рабочий стол\Транслятор + компонент поддержки расчета состояний ИМ\Транслятор + компонент поддержки расчета состояний ИМ\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\bin\Debug\ATTranslation.exe.config
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\ATTranslation.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\bin\Debug\ATTranslation.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\bin\Debug\ATTranslation.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\MainWindow.baml
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\MainWindow.g.cs
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\App.g.cs
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\ATTranslation.g.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\ATTranslation\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\C#\Original Files\ATTranslation\bin\Debug\ATTranslation.exe.config
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\ATTranslation.exe
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\ATTranslation.pdb
+J:\C#\Original Files\ATTranslation\bin\Debug\ATTranslation.exe
+J:\C#\Original Files\ATTranslation\bin\Debug\ATTranslation.pdb
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\MainWindow.baml
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\MainWindow.g.cs
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\App.g.cs
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\ATTranslation.g.resources
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\C#\Original Files\ATTranslation\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\C#\Original Files\ATTranslation_2\bin\Debug\ATTranslation.exe.config
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\ATTranslation.exe
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\ATTranslation.pdb
+J:\C#\Original Files\ATTranslation_2\bin\Debug\ATTranslation.exe
+J:\C#\Original Files\ATTranslation_2\bin\Debug\ATTranslation.pdb
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\MainWindow.baml
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\MainWindow.g.cs
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\App.g.cs
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\ATTranslation.g.resources
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\C#\Original Files\ATTranslation_2\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\C#\Original Files\ATTranslation_3\bin\Debug\ATTranslation.exe.config
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\ATTranslation.exe
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\ATTranslation.pdb
+J:\C#\Original Files\ATTranslation_3\bin\Debug\ATTranslation.exe
+J:\C#\Original Files\ATTranslation_3\bin\Debug\ATTranslation.pdb
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\MainWindow.baml
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\MainWindow.g.cs
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\App.g.cs
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\ATTranslation.g.resources
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\C#\Original Files\ATTranslation_3\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_3\bin\Debug\ATTranslation.exe.config
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_3\obj\x86\Debug\ATTranslation.exe
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_3\obj\x86\Debug\ATTranslation.pdb
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\bin\Debug\ATTranslation.exe.config
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\ATTranslation.exe
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\ATTranslation.pdb
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\bin\Debug\ATTranslation.exe
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\bin\Debug\ATTranslation.pdb
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\MainWindow.baml
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\MainWindow.g.cs
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\App.g.cs
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\ATTranslation.g.resources
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\bin\Debug\ATTranslation.exe.config
+J:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.exe
+J:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.pdb
+J:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+J:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.csproj.GenerateResource.Cache
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\bin\Debug\ATTranslation.exe.config
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.exe
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.pdb
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\bin\Debug\ATTranslation.exe
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\bin\Debug\ATTranslation.pdb
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.csprojResolveAssemblyReference.cache
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\MainWindow.baml
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\MainWindow.g.cs
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\App.g.cs
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation_MarkupCompile.cache
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.g.resources
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.Properties.Resources.resources
+E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.csproj.GenerateResource.Cache
+I:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\bin\Debug\ATTranslation.exe.config
+I:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.exe
+I:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.pdb
+K:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\bin\Debug\ATTranslation.exe.config
+K:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.exe
+K:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\obj\x86\Debug\ATTranslation.pdb

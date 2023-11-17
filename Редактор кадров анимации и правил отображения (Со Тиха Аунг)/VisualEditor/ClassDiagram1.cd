@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="VisualEditor.Action">
+    <Position X="25" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dImage" Hidden="true" />
+      <Field Name="dnameKadre" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="sImage" Hidden="true" />
+      <Field Name="snameKadre" Hidden="true" />
+      <Field Name="xChangedValue" Hidden="true" />
+      <Field Name="xChangeType" Hidden="true" />
+      <Field Name="xCoor" Hidden="true" />
+      <Field Name="xCorEnd" Hidden="true" />
+      <Field Name="xCorStart" Hidden="true" />
+      <Field Name="yChangedType" Hidden="true" />
+      <Field Name="yChangedValue" Hidden="true" />
+      <Field Name="yCoor" Hidden="true" />
+      <Field Name="yCorEnd" Hidden="true" />
+      <Field Name="yCorStart" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>8YABAAHgACAAQBCgAADBAgAGAgEIAEYESGGAnMAACAA=</HashCode>
+      <FileName>Action.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.ATVisualeditor" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACAAAAAAAAAIgAAABAQACAAEAAAAIAAAAAQAAIA=</HashCode>
+      <FileName>ATVisualeditor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.617" Collapsed="true" />
+  </Class>
+  <Class Name="VisualEditor.ChoiceKadre">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="Choice" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="listKadre" Hidden="true" />
+      <Field Name="Выбрать" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACAAACAAgACAAAAiAAACAAAQAAAgAA=</HashCode>
+      <FileName>ChoiceKadre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.Condition">
+    <Position X="21.5" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="addCondition" Hidden="true" />
+      <Field Name="comboBox1" Hidden="true" />
+      <Field Name="comboBox2" Hidden="true" />
+      <Field Name="comboBox3" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="textBox1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AEIQAAAIACAgABAUAECAAAACAAAAAAAAEAAgABAAAAA=</HashCode>
+      <FileName>Condition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.FreeText">
+    <Position X="15.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>iYAQAAIAACQAABAAAAClCAACAJAIAAAAAFgAAAAAAjA=</HashCode>
+      <FileName>FreeText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.Images">
+    <Position X="10" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="addImage" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="heightImage" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="nameImage" Hidden="true" />
+      <Field Name="pathImage" Hidden="true" />
+      <Field Name="widthImage" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>UgABAAAEACAAABAAgACEAgAGAAAAAAAAAAIAgAAAAAA=</HashCode>
+      <FileName>Images.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.Messages">
+    <Position X="11.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>aAAAAAAhACAgAJAAABDAAAACAAAgAAAAEAKEABAIADA=</HashCode>
+      <FileName>Messages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.Operator">
+    <Position X="23.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAAAAAAACAAAACAAAIAAAgAGAAAAAAAAI=</HashCode>
+      <FileName>Operator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.Parameters">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="backTextColor" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="foreTextColor" Hidden="true" />
+      <Field Name="heightParameter" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label17" Hidden="true" />
+      <Field Name="label18" Hidden="true" />
+      <Field Name="label19" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label23" Hidden="true" />
+      <Field Name="label24" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="nameParameter" Hidden="true" />
+      <Field Name="nameResource" Hidden="true" />
+      <Field Name="widthParameter" Hidden="true" />
+      <Field Name="xCorParamter" Hidden="true" />
+      <Field Name="yCorParamerter" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>iZAQAAIIECQAADQMAASBAAAGAAAIBAAAAEACIAAAADA=</HashCode>
+      <FileName>Parameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.RuleName">
+    <Position X="19.75" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="label1" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AADAAAAAACgAABAAAACAAAACAAAAAABAAAAAAAAAAIA=</HashCode>
+      <FileName>RuleName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.VEMain">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="colorCombo" Hidden="true" />
+      <Field Name="Column1" Hidden="true" />
+      <Field Name="Column13" Hidden="true" />
+      <Field Name="Column14" Hidden="true" />
+      <Field Name="Column15" Hidden="true" />
+      <Field Name="Column16" Hidden="true" />
+      <Field Name="Column17" Hidden="true" />
+      <Field Name="Column18" Hidden="true" />
+      <Field Name="Column19" Hidden="true" />
+      <Field Name="Column2" Hidden="true" />
+      <Field Name="Column20" Hidden="true" />
+      <Field Name="Column21" Hidden="true" />
+      <Field Name="Column3" Hidden="true" />
+      <Field Name="Column4" Hidden="true" />
+      <Field Name="Column5" Hidden="true" />
+      <Field Name="Column8" Hidden="true" />
+      <Field Name="Column9" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="contextMenuStrip1" Hidden="true" />
+      <Field Name="createFreeText" Hidden="true" />
+      <Field Name="createImage" Hidden="true" />
+      <Field Name="createKadre" Hidden="true" />
+      <Field Name="createMessage" Hidden="true" />
+      <Field Name="createParameter" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn1" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn2" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn3" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn4" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn5" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn6" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn7" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn8" Hidden="true" />
+      <Field Name="dataGridViewTextBoxColumn9" Hidden="true" />
+      <Field Name="dataView1" Hidden="true" />
+      <Field Name="dataView2" Hidden="true" />
+      <Field Name="dataView3" Hidden="true" />
+      <Field Name="dataView4" Hidden="true" />
+      <Field Name="deleteFreeText" Hidden="true" />
+      <Field Name="deleteKadre" Hidden="true" />
+      <Field Name="deleteNode" Hidden="true" />
+      <Field Name="deleteParameter" Hidden="true" />
+      <Field Name="delImage" Hidden="true" />
+      <Field Name="delMessage" Hidden="true" />
+      <Field Name="flowLayoutPanel1" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Field Name="groupBox4" Hidden="true" />
+      <Field Name="groupBox5" Hidden="true" />
+      <Field Name="groupBox6" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="loadKadre" Hidden="true" />
+      <Field Name="nameKadre" Hidden="true" />
+      <Field Name="pathToImage" Hidden="true" />
+      <Field Name="saveKadre" Hidden="true" />
+      <Field Name="saveNodes" Hidden="true" />
+      <Field Name="treeView1" Hidden="true" />
+      <Field Name="updateKadre" Hidden="true" />
+      <Field Name="действияToolStripMenuItem" Hidden="true" />
+      <Field Name="добавитьToolStripMenuItem" Hidden="true" />
+      <Field Name="изменитьToolStripMenuItem" Hidden="true" />
+      <Field Name="изменитьдействиеToolStripMenuItem" Hidden="true" />
+      <Field Name="изменитьоператорToolStripMenuItem" Hidden="true" />
+      <Field Name="изменитьусловиеToolStripMenuItem" Hidden="true" />
+      <Field Name="операторToolStripMenuItem" Hidden="true" />
+      <Field Name="условияToolStripMenuItem" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EmQUIAAtADEKERbJIGKHMARjYIA/5pAMTGAXKESAMBU=</HashCode>
+      <FileName>VEMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualEditor.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="VisualEditor.IATVisualeditor">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAIgAAABAQACAAEAAAAIAAAAAAAAIA=</HashCode>
+      <FileName>ATVisualeditor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Zawgyi-One" Size="8.25" />
+</ClassDiagram>

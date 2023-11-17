@@ -1,0 +1,32 @@
+I:\C#\ATTranslation\ATTranslation\bin\Release\ATTranslation.exe
+I:\C#\ATTranslation\ATTranslation\bin\Release\ATTranslation.pdb
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\ResolveAssemblyReference.cache
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\MainWindow.baml
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\MainWindow.g.cs
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\App.g.cs
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\ATTranslation_MarkupCompile.cache
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\ATTranslation.g.resources
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\ATTranslation.Properties.Resources.resources
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\GenerateResource.read.1.tlog
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\GenerateResource.write.1.tlog
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\ATTranslation.exe
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\ATTranslation.pdb
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+I:\C#\ATTranslation\ATTranslation\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+I:\C#\ATTranslation\ATTranslation\bin\Release\ATTranslation.exe.config
+J:\C#\Original Files\ATTranslation_3\bin\Release\ATTranslation.exe.config
+J:\C#\Original Files\ATTranslation_3\bin\Release\ATTranslation.exe
+J:\C#\Original Files\ATTranslation_3\bin\Release\ATTranslation.pdb
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\ResolveAssemblyReference.cache
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\MainWindow.baml
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\MainWindow.g.cs
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\App.g.cs
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\ATTranslation_MarkupCompile.cache
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\ATTranslation.g.resources
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\ATTranslation.Properties.Resources.resources
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\GenerateResource.read.1.tlog
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\GenerateResource.write.1.tlog
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\ATTranslation.exe
+J:\C#\Original Files\ATTranslation_3\obj\x86\Release\ATTranslation.pdb

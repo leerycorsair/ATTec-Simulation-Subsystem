@@ -1,0 +1,40 @@
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\ResolveAssemblyReference.cache
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Action.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.ChoiceKadre.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Messages.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Condition.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.VEMain.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.FreeText.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Images.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Operator.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Parameters.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Properties.Resources.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.RuleName.resources
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\bin\Release\VisualEditor.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\bin\Release\VisualEditor.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.pdb
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\GenerateResource.read.1.tlog
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\GenerateResource.write.1.tlog
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\bin\Debug\VisualEditor.exe
+D:\Supervisor\Ph.D\Third Projet(Visual Component)\Original Files\VisualEditor(6_version)\VisualEditor\bin\Debug\VisualEditor.pdb
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.exe
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.pdb
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\bin\Debug\VisualEditor.exe
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\bin\Debug\VisualEditor.pdb
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\ResolveAssemblyReference.cache
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Action.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.ChoiceKadre.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Messages.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Condition.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.VEMain.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.FreeText.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Images.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Operator.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Parameters.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.Properties.Resources.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.RuleName.resources
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\GenerateResource.read.1.tlog
+J:\C#\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\GenerateResource.write.1.tlog
+E:\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.exe
+E:\Original Files\VisualEditor(6_version)\VisualEditor\obj\Release\VisualEditor.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ATTranslation">
+</Property><Property Name="Файл решения" Value="E:\Исходники\Подсистема имитационного моделирования\ATTranslation(Иван Пиянин + Со Тиха Аунг)\ATTranslation.sln">
+</Property><Property Name="Date" Value="25 декабря 2014 г.">
+</Property><Property Name="Time" Value="12:42">
+</Property><Property Name="Номер записи" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="ATTranslation" Source="ATTranslation.csproj" Description="Файл проекта не нуждается в преобразовании.">
+</Event><Event ErrorLevel="3" Project="ATTranslation" Source="ATTranslation.csproj" Description="Преобразование не требуется">
+</Event><Event ErrorLevel="0" Project="" Source="ATTranslation.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="ATTranslation.sln" Description="Converted">
+</Event></UpgradeLog>

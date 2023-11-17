@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ATTranslation">
+</Property><Property Name="Solution File" Value="G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\ATTranslation.sln">
+</Property><Property Name="User Options File" Value="G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\ATTranslation.suo">
+</Property><Property Name="Date" Value="23 сентября 2014 г.">
+</Property><Property Name="Time" Value="22:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ATTranslation.sln" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\ATTranslation.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ATTranslation.suo" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\ATTranslation.suo">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="ATTranslation.csproj" Description="Project file successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\ATTranslation.csproj">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="Function.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\Function.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="Generation.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\Generation.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="Operation.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\Operation.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="OperationTemplate.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\OperationTemplate.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="Resource.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\Resource.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="ResourceType.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\ResourceType.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="SemanticAnalysis.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\SemanticAnalysis.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="SyntaxAnalysis.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\SyntaxAnalysis.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="App.xaml.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="LexicAnalysis.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\LexicAnalysis.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="MainWindow.xaml.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\MainWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="app.config" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="ClassDiagram2.cd" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\ClassDiagram2.cd">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="Properties\Settings.settings" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="Properties\Resources.resx" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="App.xaml" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\App.xaml">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="MainWindow.xaml" Description="File successfully backed up as G:\Flash Drive\6.6.2014\C#\Original Files\ATTranslation_4\Backup\MainWindow.xaml">
+</Event><Event ErrorLevel="0" Project="ATTranslation" Source="ATTranslation.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ATTranslation" Source="ATTranslation.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="ATTranslation.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ATTranslation.sln" Description="Converted">
+</Event></UpgradeLog>

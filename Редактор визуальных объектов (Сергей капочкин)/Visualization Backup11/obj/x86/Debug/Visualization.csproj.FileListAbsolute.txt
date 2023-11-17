@@ -1,0 +1,360 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\Visualization_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\Visualization.g.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\Visualization.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\bin\Debug\Visualization.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\bin\Debug\Visualization.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\Visualization.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\Visualization.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\EditWindow.baml
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\EditWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\ResourceTypeWindow.baml
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\ResourceTypeWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\ResourceWindow.baml
+C:\Users\user\Documents\Visual Studio 2010\Projects\Visualization\Visualization\obj\x86\Debug\ResourceWindow.g.cs
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Visualization\bin\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Visualization\bin\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\EditWindow.baml
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\ResourceTypeWindow.baml
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\ResourceWindow.baml
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\EditWindow.g.cs
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\ResourceTypeWindow.g.cs
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\ResourceWindow.g.cs
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\App.g.cs
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\Visualization_MarkupCompile.cache
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\Visualization.g.resources
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\Visualization.Properties.Resources.resources
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Visualization\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Visualization - копия\bin\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Visualization - копия\bin\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\EditWindow.baml
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\ResourceTypeWindow.baml
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\ResourceWindow.baml
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\EditWindow.g.cs
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\ResourceTypeWindow.g.cs
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\ResourceWindow.g.cs
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\App.g.cs
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\Visualization_MarkupCompile.cache
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\Visualization.g.resources
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\Visualization.Properties.Resources.resources
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\FunctionWindow.baml
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\FunctionWindow.g.cs
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\Dictionary1.baml
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\App.baml
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\Dictionary2.baml
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\PatternOperation.baml
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\PatternOperation.g.cs
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\RelevantResourceWindow.baml
+C:\Users\Asus\Desktop\Visualization - копия\obj\x86\Debug\RelevantResourceWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Visualization Backup\bin\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Visualization Backup\bin\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\Dictionary1.baml
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\Dictionary2.baml
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\EditWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\FunctionWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\ResourceTypeWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\ResourceWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\RelevantResourceWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\App.baml
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\EditWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\FunctionWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\ResourceTypeWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\ResourceWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\RelevantResourceWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\App.g.cs
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\Visualization_MarkupCompile.cache
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\Visualization.g.resources
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\Visualization.Properties.Resources.resources
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\PatternBodyWindower.baml
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\PatternBodyWindower.g.cs
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\PatternOperationWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\PatternOperationWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup\obj\x86\Debug\Dictionary4.baml
+C:\Users\Asus\Desktop\Visualization Backup - копия\Visualization Backup\obj\x86\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Visualization Backup - копия\Visualization Backup\obj\x86\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Visualization Backup11\bin\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Visualization Backup11\bin\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\Dictionary1.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\Dictionary2.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\Dictionary4.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\EditWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\FunctionWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\ResourceWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\App.baml
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\EditWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\FunctionWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.g.cs
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\ResourceWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.g.cs
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\App.g.cs
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\Visualization_MarkupCompile.cache
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.g.resources
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.Properties.Resources.resources
+C:\Users\Asus\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\bin\Debug\Visualization.exe
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\bin\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Dictionary1.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Dictionary2.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Dictionary4.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\EditWindow.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\FunctionWindow.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\ResourceWindow.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\App.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\EditWindow.g.cs
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\FunctionWindow.g.cs
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.g.cs
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.g.cs
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.g.cs
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\ResourceWindow.g.cs
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.g.cs
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\App.g.cs
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization_MarkupCompile.cache
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.g.resources
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.Properties.Resources.resources
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\bin\Debug\Visualization.exe.config
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\OperationWindow.baml
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\OperationWindow.g.cs
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Dictionary5.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\bin\Debug\Visualization.exe.config
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.exe
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\bin\Debug\Visualization.exe
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\bin\Debug\Visualization.pdb
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Dictionary1.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Dictionary2.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Dictionary4.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Dictionary5.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\EditWindow.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\FunctionWindow.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\OperationWindow.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\ResourceWindow.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\App.baml
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\EditWindow.g.cs
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\FunctionWindow.g.cs
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\OperationWindow.g.cs
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.g.cs
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.g.cs
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.g.cs
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\ResourceWindow.g.cs
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.g.cs
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\App.g.cs
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization_MarkupCompile.cache
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.g.resources
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.Properties.Resources.resources
+C:\Users\Asus\Desktop\PDF\Новая папка (2)\Visualization Backup11\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\bin\Debug\Visualization.exe.config
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Visualization.exe
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Visualization.pdb
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\bin\Debug\Visualization.exe
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\bin\Debug\Visualization.pdb
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Dictionary1.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Dictionary2.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Dictionary4.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Dictionary5.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\EditWindow.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\FunctionWindow.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\OperationWindow.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\ResourceWindow.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\App.baml
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\EditWindow.g.cs
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\FunctionWindow.g.cs
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\OperationWindow.g.cs
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.g.cs
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.g.cs
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.g.cs
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\ResourceWindow.g.cs
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.g.cs
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Visualization_MarkupCompile.cache
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Visualization.g.resources
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Visualization.Properties.Resources.resources
+C:\Users\Сергей\Documents\ИИ\Visualization Backup11\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\AI_13_06\Downloads\NewZip\Visualization Backup11\bin\Debug\Visualization.exe.config
+C:\Users\AI_13_06\Downloads\NewZip\Visualization Backup11\obj\x86\Debug\Visualization.exe
+C:\Users\AI_13_06\Downloads\NewZip\Visualization Backup11\obj\x86\Debug\Visualization.pdb
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\bin\Debug\Visualization.exe.config
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Visualization.exe
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Visualization.pdb
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Dictionary1.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Dictionary2.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Dictionary4.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Dictionary5.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\EditWindow.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\FunctionWindow.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\OperationWindow.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\ResourceWindow.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\App.baml
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\EditWindow.g.cs
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\FunctionWindow.g.cs
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\OperationWindow.g.cs
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.g.cs
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.g.cs
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.g.cs
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\ResourceWindow.g.cs
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.g.cs
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\App.g.cs
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Visualization_MarkupCompile.cache
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Visualization.g.resources
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Visualization.Properties.Resources.resources
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\bin\Debug\Visualization.exe
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\bin\Debug\Visualization.pdb
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Documents\NewZip\Visualization Backup11\bin\Debug\EntityFramework.xml
+C:\Users\Lit-41\Desktop\Visualization Backup11\bin\Debug\Visualization.exe.config
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.exe
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.pdb
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Dictionary1.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Dictionary2.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Dictionary4.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Dictionary5.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\EditWindow.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\FunctionWindow.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\OperationWindow.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\ResourceWindow.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\App.baml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\EditWindow.g.cs
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\FunctionWindow.g.cs
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\OperationWindow.g.cs
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.g.cs
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.g.cs
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.g.cs
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\ResourceWindow.g.cs
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.g.cs
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\App.g.cs
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Visualization_MarkupCompile.cache
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.g.resources
+C:\Users\Lit-41\Desktop\Visualization Backup11\bin\Debug\Visualization.exe
+C:\Users\Lit-41\Desktop\Visualization Backup11\bin\Debug\Visualization.pdb
+C:\Users\Lit-41\Desktop\Visualization Backup11\bin\Debug\EntityFramework.dll
+C:\Users\Lit-41\Desktop\Visualization Backup11\bin\Debug\EntityFramework.xml
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.Properties.Resources.resources
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\Lit-41\Desktop\Visualization Backup11\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\bin\Debug\Visualization.exe.config
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.exe
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.pdb
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\bin\Debug\Visualization.exe
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\bin\Debug\Visualization.pdb
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\bin\Debug\EntityFramework.dll
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\bin\Debug\EntityFramework.xml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Dictionary1.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Dictionary2.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Dictionary4.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Dictionary5.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\EditWindow.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\FunctionWindow.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\OperationWindow.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\ResourceWindow.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\App.baml
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\EditWindow.g.cs
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\FunctionWindow.g.cs
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\OperationWindow.g.cs
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.g.cs
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.g.cs
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.g.cs
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.g.cs
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\ResourceWindow.g.cs
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\App.g.cs
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization_MarkupCompile.cache
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.g.resources
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.Properties.Resources.resources
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\bin\Debug\Visualization.exe.config
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.exe
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.pdb
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\bin\Debug\Visualization.exe
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\bin\Debug\Visualization.pdb
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\bin\Debug\EntityFramework.dll
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\bin\Debug\EntityFramework.xml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.csprojResolveAssemblyReference.cache
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Dictionary1.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Dictionary2.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Dictionary4.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Dictionary5.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\EditWindow.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\FunctionWindow.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\OperationWindow.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\ResourceWindow.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\App.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\EditWindow.g.cs
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\FunctionWindow.g.cs
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\OperationWindow.g.cs
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\PatternBodyWindower.g.cs
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\PatternOperationWindow.g.cs
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\ResourceTypeWindow.g.cs
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\RelevantResourceWindow.g.cs
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\ResourceWindow.g.cs
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\App.g.cs
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization_MarkupCompile.cache
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.g.resources
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.Properties.Resources.resources
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.csproj.GenerateResource.Cache
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\StartProject.baml
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\StartProject.g.cs
+G:\Flash Drive\6.6.2014\Сергей Капочкин\Visualization Backup_2\Visualization Backup11\obj\x86\Debug\Visualization.Form1.resources

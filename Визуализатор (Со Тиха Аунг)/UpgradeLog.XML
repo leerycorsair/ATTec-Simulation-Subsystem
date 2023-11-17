@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Visualizer">
+</Property><Property Name="Файл решения" Value="I:\Original Files\Visualizer(7_version)\Visualizer.sln">
+</Property><Property Name="Файл параметров пользователя" Value="I:\Original Files\Visualizer(7_version)\Visualizer.suo">
+</Property><Property Name="Date" Value="21 апреля 2015 г.">
+</Property><Property Name="Time" Value="18:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Visualizer.sln" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Visualizer.suo" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer.suo">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Visualizer.csproj" Description="Успешно создана резервная копия файла проекта: I:\Original Files\Visualizer(7_version)\Backup\Visualizer\Visualizer.csproj">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Visualizer.csproj.user" Description="Резервная копия проекта успешно создана как I:\Original Files\Visualizer(7_version)\Backup\Visualizer\Visualizer.csproj.user">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Charts.cs" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\Charts.cs">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Charts.Designer.cs" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\Charts.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\RuleAction.cs" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\RuleAction.cs">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\VMain.cs" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\VMain.cs">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\VMain.Designer.cs" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\VMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\ATVisualizer.cs" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\ATVisualizer.cs">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\RuleProcessing.cs" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\RuleProcessing.cs">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\ClassDiagram1.cd" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Properties\Settings.settings" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Charts.resx" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\Charts.resx">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\VMain.resx" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\VMain.resx">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Properties\Resources.resx" Description="Успешно создана резервная копия файла I:\Original Files\Visualizer(7_version)\Backup\Visualizer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Visualizer.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Visualizer" Source="Visualizer\Visualizer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Visualizer.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Visualizer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Visualizer" Source="Visualizer\Visualizer.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

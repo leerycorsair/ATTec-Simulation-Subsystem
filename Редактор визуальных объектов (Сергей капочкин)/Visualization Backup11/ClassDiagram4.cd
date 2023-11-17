@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Visualization.Functionizer" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Members>
+      <Property Name="Line" Hidden="true" />
+      <Property Name="Vitual" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAEAAAAABAAQAAAAAAAAAAQAAAIABAAA=</HashCode>
+      <FileName>Functionizer\Functionizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.FunctionizerParameter" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Functionizer\FunctionizerParameter\FunctionizerParameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.Operation">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <Members>
+      <Property Name="Line" Hidden="true" />
+      <Property Name="Visual" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAiAAAAAAAAQAAAAAAAAAAQAAAAAAAAAAIABAAA=</HashCode>
+      <FileName>Operation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.PatternBody" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Property Name="Vi2l" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAABQAAAAAAEAAAEAAAQAAAAQAAAAIAAAAAAAAhAA=</HashCode>
+      <FileName>PatternBody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.PatternBodyParameter" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAIIgAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PatternBodyParameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.PatternOperations" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Property Name="Virtual" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>PatternOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.RelevantResourcerParam" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RelevantResourcerParam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.RelevantResource" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Property Name="RulesUs" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAgQAAAAAAAAIARABAAAAEAA=</HashCode>
+      <FileName>RelevantResources.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.Resource">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <Members>
+      <Property Name="Line" Hidden="true" />
+      <Property Name="Visual" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAAAIAAAIAAAAAAAAAAAQIAAAAAAAAAQAAAIABAAA=</HashCode>
+      <FileName>Resource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.ResourceType" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <Members>
+      <Property Name="Visual" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAEAAAAAAAAQAAAAAAAAAAQAAAIAAAAA=</HashCode>
+      <FileName>ResourceType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.ResourceTypeParameter" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAQAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>ResourceTypeParameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Visualization.Time" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACQAAAAAAAAAAAAACAAAAAAAIAAAAAAACAAAAAA=</HashCode>
+      <FileName>Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

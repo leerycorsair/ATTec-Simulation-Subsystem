@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style x:Key="metroButton4Style" TargetType="{x:Type MenuItem}">
+        <Trigger Property="IsMouseOver" Value="true">
+        <Setter Property="Fill" TargetName="addMenu" Value="Black"/>
+
+    </Trigger>
+</Style>
+</ResourceDictionary>
